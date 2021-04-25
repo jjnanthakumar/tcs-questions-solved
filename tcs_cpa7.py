@@ -34,7 +34,7 @@ else:
 
 res=Employee.calculateEmployeeSalaryByRole(role,EmpObjects,roleIncentives)
 if res is None:
-    print("Employee Not Found")
+    print("Employee Not Found.")
 else:
     for r in res:
         print(r.employeeId,r.employeeName,r.salary)
