@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 class Employee:
     def __init__(self,e_id,e_name,e_dept,salary,role):
         self.employeeId = e_id

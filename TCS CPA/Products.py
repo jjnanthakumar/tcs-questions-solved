@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 class Product:
     def __init__(self,productName,productType,productPrice, quantityOnHand, reorderingQuantity):
         self.productName=productName

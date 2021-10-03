@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 import re
 class School:
     def __init__(self, uniqueId, stateCode, subjects):

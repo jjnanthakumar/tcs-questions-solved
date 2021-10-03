@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 class Apparel:
     def __init__(self, apparelbrand, type, price, inStock):
         self.apparelbrand = apparelbrand

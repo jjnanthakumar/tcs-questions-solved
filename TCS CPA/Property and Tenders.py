@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 class Property:
     def __init__(self,ptypenl,pvaluenl,mbpnl):
         self.property_type=ptypenl

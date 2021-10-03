@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 class Person:
     def __init__(self, pName, pHeight, pWeight, pBmi=0, pBmi_status=""):
         self.pName = pName

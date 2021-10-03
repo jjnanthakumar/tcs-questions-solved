@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 class Citizen:
     def __init__(self, citizenID, citizenName, citizenAge, isFronlineWorker, vaccineOptedFor, preference=None):
         self.citizenID = citizenID

@@ -1,3 +1,9 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
 store = {
     101: ["Milk", 42, 10],
     102: ["Cheese", 50, 20],

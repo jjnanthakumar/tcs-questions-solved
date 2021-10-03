@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 class Blood:
     def __init__(self, bloodgrp,unit):
         self.bloodgrp=bloodgrp.upper()

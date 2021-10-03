@@ -1,3 +1,10 @@
+# Author : TechStact (Nanthakumar J J)
+
+# Profile : jjnanthakumar.github.io
+
+__author__ = "https://jjnanthakumar.github.io"
+
+
 class Table:
     def __init__(self, tableNo=None, waiterName=None, status=None):
         self.tableNo=tableNo
