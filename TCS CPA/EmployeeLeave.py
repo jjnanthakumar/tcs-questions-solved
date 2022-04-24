@@ -1,4 +1,4 @@
-# Author : TechStact (Nanthakumar J J)
+# Author : Nanthakumar J J
 
 # Profile : jjnanthakumar.github.io
 
